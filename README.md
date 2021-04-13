@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**DiegoA10/DiegoA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hello there! <img src="https://media.giphy.com/media/KAFyE31UznAEaru7de/giphy.gif" width="40px"></h1>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoA10&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=dark"/>
+</div>
+<br/>
+<div align="center">
+  <span>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoA10&theme=dark"/>
+  </span>
+  &nbsp;
+  <span>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DiegoA10&theme=dark"/>
+  </span>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=darkhub&no-frame=true&margin-w=30" />
+</div>
