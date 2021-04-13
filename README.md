@@ -19,5 +19,5 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarioAGtzC&theme=darkhub&no-frame=true&margin-w=30" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DiegoA10&theme=darkhub&no-frame=true&margin-w=30" />
 </div>
