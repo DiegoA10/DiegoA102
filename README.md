@@ -10,10 +10,6 @@
 <br/>
 <div align="center">
   <span>
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoA10&theme=dark"/>
-  </span>
-  &nbsp;
-  <span>
      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DiegoA10&theme=dark"/>
   </span>
 </div>
